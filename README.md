@@ -1,5 +1,5 @@
 <h1 align="center">
-           Automotive industry - All Analysis about Car
+           Automotive industry - Car details Projects - to Predict pricing and trust 
 </h1>
 
 *****
@@ -18,23 +18,12 @@
 ## 📊 Overview of the App
 
 Welcome to AutoCARs. Here you can get a complete analysis and recent trends about all types of Car in Automotive Industry. You can demonstrate how the Automotive Industry could harness data to take informed decisions.
-The project aims to perform various visualizations and provide various insights from the considered Indian automobile dataset by performing data analysis that utilizing machine learning algorithms in Python programming language. The considered dataset is of cars that consists of various features. The insights that could be estimated from this dataset would be feature such as price of a specific car model that could be estimated using the other attributes of that particular car model using machine learning algorithms.<br>
+The project aims to perform various visualizations and provide various insights from the considered automobile dataset by performing data analysis that utilizing machine learning algorithms in Python programming language. The considered dataset is of cars that consists of various features. The insights that could be estimated from this dataset would be feature such as price of a specific car model that could be estimated using the other attributes of that particular car model using machine learning algorithms.<br>
 The secions include:-
 
-**1. Car Sales Analysis **
+**1. Car Sales Analysis**
 **2. Predict Used Car Price**
 
-## 🚀 Tech Stack:
-
-![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-49587c.svg?&style=for-the-badge&logo=power-bi&logoColor=white)
-![image](https://img.shields.io/badge/Numpy-342B029.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/scikit%20learn-FF8282?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;&nbsp;
 
 ****
 
@@ -76,7 +65,7 @@ The secions include:-
 
 ### 5. Car Sales Analysis Section
 <pre>
-<img src="https://user-images.githubusercontent.com/78292851/170288306-2c5bdb31-04c3-4e9f-8500-d711bdf6168f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288575-fd23bcd2-d32c-4cac-9069-d5858ecd5917.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288788-bda86818-2c1e-4794-9344-dc72869c3319.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288799-b42224fe-bc24-49f8-aee2-5d1ce26923fd.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/170289514-a1410df2-b10a-4830-a286-a43acc058c95.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170289524-f4284424-349f-4b28-9a4d-827a7c3fa02f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170289529-dac61cad-8f63-4f2e-9c7a-3f347cac3fff.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170289533-07610f18-119c-46f6-bcf7-fa989177c0eb.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/170289541-ebef583a-8e82-481e-8e57-53ab5596a7a3.png" width="1010">
+<img src="https://user-images.githubusercontent.com/78292851/170288306-2c5bdb31-04c3-4e9f-8500-d711bdf6168f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288575-fd23bcd2-d32c-4cac-9069-d5858ecd5917.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288788-bda86818-2c1e-4794-9344-dc72869c3319.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170288799-b42224fe-bc24-49f8-aee2-5d1ce26923fd.png" width="1010"><img src="https://user-images.githubusercontent.com/78292851/170289514-a1410df2-b10a-4830-a286-a43acc058c95.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170289524-f4284424-349f-4b28-9a4d-827a7c3fa02f.png" width="1010"> <img src="https://user-images.githubusercontent.com/78292851/170289529-dac61cad-8f63-4f2e-9c7a-3f347cac3fff.png" width="1010"> <img src="https://user-
 
 </pre>
 
@@ -87,12 +76,6 @@ The secions include:-
 
 </pre>
 
-
-
-### 7. Contact Section
-<pre>
-<img src="https://user-images.githubusercontent.com/78292851/169813945-a45eef32-58f8-4a2a-8e39-d3e571daf567.png" width="1010"> 
-</pre>
 
 
 ## Run Locally
